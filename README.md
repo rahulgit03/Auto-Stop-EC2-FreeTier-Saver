@@ -59,16 +59,10 @@ This means: **Every day at 21:30 (9:30 PM IST)**
 - ⏱️ Runs daily without you lifting a finger  
 - 💥 Looks 🔥 on your SRE / DevOps / Cloud resume
 
----
-
-## ✨ Future Plans
-- Auto-stop EC2 **after 1 hour of inactivity** using CloudWatch + Lambda
-- Add **Slack/Email notifications** after instance is stopped
-- Open-source this as a reusable plug-n-play tool
 
 ---
 
 ## 🧑‍💻 Built with 💙 by [Suragouni Rahul Goud](https://github.com/rahulgit03)
 
-Feel free to fork, star, or clone and save your Free Tier like a true cloud wizard 🧙‍♂️☁️✨
+
 
